@@ -1,0 +1,10 @@
+D:\Visual Studio\My Codes\MyVPN\bin\Debug\MyVPN.exe.config
+D:\Visual Studio\My Codes\MyVPN\bin\Debug\MyVPN.exe
+D:\Visual Studio\My Codes\MyVPN\bin\Debug\MyVPN.pdb
+D:\Visual Studio\My Codes\MyVPN\obj\Debug\MyVPN.csproj.AssemblyReference.cache
+D:\Visual Studio\My Codes\MyVPN\obj\Debug\MyVPN.Form1.resources
+D:\Visual Studio\My Codes\MyVPN\obj\Debug\MyVPN.Properties.Resources.resources
+D:\Visual Studio\My Codes\MyVPN\obj\Debug\MyVPN.csproj.GenerateResource.cache
+D:\Visual Studio\My Codes\MyVPN\obj\Debug\MyVPN.csproj.CoreCompileInputs.cache
+D:\Visual Studio\My Codes\MyVPN\obj\Debug\MyVPN.exe
+D:\Visual Studio\My Codes\MyVPN\obj\Debug\MyVPN.pdb
